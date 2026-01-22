@@ -1,0 +1,6 @@
+Name: Joy Asuquo
+Matric Number: 22CH031998
+Machine Learning Algorithm Used: Linear Regression
+Model Persistence Method Used: Joblib
+Live URL of Hosted Application: 
+GitHub Repository Link:
